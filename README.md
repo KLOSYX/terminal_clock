@@ -5,7 +5,7 @@ A simple character style terminal clock, with an additional tomato clock.
 
 ```python
 python3 smartclock.py
-# Press enter to change clock model
+# Press enter to change clock mode
 ```
 
 
